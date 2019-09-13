@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python Note - Doctest
-categories: [Python, Doctest]
+categories: [Python]
 ---
 
 According to the official Python3.7 document, doctest is a module which "searches for text that look like interactive Python sessions, and then executes those sessions to verify taht they work exactly as shown". 
