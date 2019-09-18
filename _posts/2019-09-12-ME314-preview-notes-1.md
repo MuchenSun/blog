@@ -5,7 +5,7 @@ categories: [ME314]
 mathjax: true
 ---
 
-The first section will talk about Appendix B(Units, dimensional analysis), Appendix C(Approximations, limiting cases) and Chapter 1(Statics) of the textbook "Introduction to Classical Mechanics"(David Morin).
+The first section will talk about Appendix B(Units, dimensional analysis), Appendix C(Approximations, limiting cases) and y
 
 ## Appendix B: Units, dimensional analysis
 
