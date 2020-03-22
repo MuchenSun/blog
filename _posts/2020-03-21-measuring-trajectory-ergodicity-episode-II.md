@@ -45,3 +45,13 @@ $$
 $$
 
 In the next blog, we will start to implement this metric in Python for given trajectory and spatial distribution data. See you then!
+
+## References
+
+[1] Mathew, George, and Igor Mezić. "Metrics for ergodicity and design of ergodic dynamics for multi-agent systems." Physica D: Nonlinear Phenomena 240.4-5 (2011): 432-442.
+
+[2] Miller, Lauren M., and Todd D. Murphey. "Trajectory optimization for continuous ergodic exploration." 2013 American Control Conference. IEEE, 2013.
+
+[3] Mavrommati, Anastasia, et al. "Real-time area coverage and target localization using receding-horizon ergodic exploration." IEEE Transactions on Robotics 34.1 (2017): 62-80.
+
+***
