@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Northwestern NxRLab Professors' Research Information Collection
-categories: Northwestern
+categories: [Robotics]
 mathjax: true
 ---
 

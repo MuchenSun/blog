@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Northwestern ME314 Notes: Applying the Variational Principle to Impacts'
-categories: [ME314]
+categories: [Robotics]
 mathjax: true
 ---
 
